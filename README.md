@@ -6,11 +6,9 @@ This project builds a machine learning pipeline to predict the probability that 
 
 Source: University Football Injury Prediction Dataset (Kaggle).  
 Local copy used: `data/data.csv`.
-Link: https://www.kaggle.com/datasets/yuanchunhong/university-football-injury-prediction-dataset?resource=download
 
 If the dataset cannot be included due to licensing, download it from Kaggle and place it manually at:
-
-data/data.csv
+ https://www.kaggle.com/datasets/yuanchunhong/university-football-injury-prediction-dataset?resource=download
 
 ## Notebooks Overview
 
