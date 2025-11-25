@@ -2,28 +2,11 @@
 
 This project builds a machine learning pipeline to predict the probability that a university football athlete will suffer an injury in the next season. The workflow includes exploratory data analysis, preprocessing, feature engineering, model training, evaluation, and SHAP-based interpretability.
 
-## Project Structure
-
-.
-├─ notebooks/
-│  ├─ 01_exploration.ipynb
-│  ├─ 02_preprocessing_feature_engineering.ipynb
-│  ├─ 03_model_training.ipynb
-│  └─ 04_interpretation_conclusions.ipynb
-├─ src/
-│  └─ __init__.py
-├─ data/
-│  └─ data.csv             (raw dataset only)
-├─ artifacts/
-│  ├─ random_forest_model.pkl
-│  ├─ *.png                (plots)
-│  └─ *.csv                (feature importance, SHAP tables)
-└─ README.md
-
 ## Dataset
 
 Source: University Football Injury Prediction Dataset (Kaggle).  
 Local copy used: `data/data.csv`.
+Link: https://www.kaggle.com/datasets/yuanchunhong/university-football-injury-prediction-dataset?resource=download
 
 If the dataset cannot be included due to licensing, download it from Kaggle and place it manually at:
 
