@@ -51,7 +51,6 @@ All generated outputs are now stored inside:
 artifacts/
 
 This includes:
-- random_forest_model.pkl  
 - feature_importance_rf.csv  
 - shap_feature_importance_rf.csv  
 - confusion_matrix.png  
