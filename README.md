@@ -87,7 +87,7 @@ Not required by the notebooks, but keeps the repository organized.
 
 Minimal content:
 
-"""src package for the Injury Prediction project."""  
+"src package for the Injury Prediction project."
 __all__ = []
 
 ## Requirements
